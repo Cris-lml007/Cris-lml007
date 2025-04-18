@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cristian</h1>
+![Header](./header.png)
+<!-- <h1 align="center">Hi 👋, I'm Cristian</h1> -->
 <h3 align="center">A passionate backend developer from Bolivia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cris-lml007&label=Profile%20views&color=0e75b6&style=flat" alt="cris-lml007" /> </p>
@@ -10,6 +11,7 @@
 - 💬 Ask me about **C++, Java, VIM**
 
 <h3 align="left">Connect with me:</h3>
+<!-- <a href='mailto:cristianmanuel3306@gmail.com'>📧</a> -->
 <p align="left">
 </p>
 
